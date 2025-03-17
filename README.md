@@ -6,5 +6,6 @@
 
 - React
 - Librerias -> React Router Dom , Zustand para el estado global y Zod para la validacion de los tipos de la API.
+- Iconos con HeroIcons React.
 - TypeScript
 - TailwindCSS
