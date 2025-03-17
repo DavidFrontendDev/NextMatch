@@ -9,3 +9,10 @@
 - Iconos con HeroIcons React.
 - TypeScript
 - TailwindCSS
+
+# TODO
+
+- Pagina Home Responsive
+- Pagina de ver los siguientes partidos (investigar que ligas mostrar) y ver los detalles de ese partido especifico.
+- Marcar como favorito el partido para poder seguirlo mas facilmente.
+- Pagina de ligas ( poder filtrar por la liga que quiera ver la clasificacion )
